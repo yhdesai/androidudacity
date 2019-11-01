@@ -1,4 +1,4 @@
-# AndroidUdacity
+# Learn Android on Udacity
 
 ### Android Basics Nanodegree
 
